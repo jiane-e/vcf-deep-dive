@@ -1,0 +1,2 @@
+vmhost,hostname,domainname,searchdomain,dnsaddress,ntpserver
+172.27.60.166,esx01,example.com,example.com,"114.114.114.114,8.8.8.8","ntp.aliyun.com,203.107.6.88"
